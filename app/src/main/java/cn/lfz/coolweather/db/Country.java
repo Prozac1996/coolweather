@@ -1,10 +1,12 @@
 package cn.lfz.coolweather.db;
 
+import org.litepal.crud.DataSupport;
+
 /**
  * Created by Administrator on 2017/10/5.
  */
 
-public class Country {
+public class Country extends DataSupport{
 
     private int id;
 
