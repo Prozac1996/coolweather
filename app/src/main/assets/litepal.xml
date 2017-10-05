@@ -1,0 +1,9 @@
+<litepal>
+    <dname value="coolWeather" />
+    <version value="1" />
+    <list>
+        <mapping class="cn.lfz.coolweather.db.City" />
+        <mapping class="cn.lfz.coolweather.db.Country" />
+        <mapping class="cn.lfz.coolweather.db.Province" />
+    </list>
+</litepal>
